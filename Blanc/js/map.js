@@ -17,8 +17,6 @@ function drawInit() {
 		}
 }
 
-
-
 drawInit();
 
 
