@@ -23,6 +23,7 @@ jQuery(document).ready(function($){
 			openProject($(this).parent('li'));
 		}
 	});
+	
 
 	navigationTrigger.on('click', function(event){
 		event.preventDefault();
